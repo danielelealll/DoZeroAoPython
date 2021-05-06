@@ -124,3 +124,5 @@ while True:
 
     clock.tick(10)
     
+    ## jogo snake desenvolvido para pygame
+    
